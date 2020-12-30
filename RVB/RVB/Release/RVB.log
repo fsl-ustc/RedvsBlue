@@ -1,0 +1,6 @@
+﻿  core.cpp
+C:\Users\11055\Desktop\big_program\RedvsBlue\RVB\RVB\core.cpp(69,14): warning C4101: “ps”: 未引用的局部变量
+C:\Users\11055\Desktop\big_program\RedvsBlue\RVB\RVB\core.cpp(95,14): warning C4101: “ps”: 未引用的局部变量
+C:\Users\11055\Desktop\big_program\RedvsBlue\RVB\RVB\core.cpp(96,7): warning C4101: “rect”: 未引用的局部变量
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error : 元素 <SubSystem> 具有无效值“ Windows(/SUBSYSTEM:WINDOWS)”。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6011: 传递给 Microsoft.Build.CPPTasks.Link 任务的参数无效。

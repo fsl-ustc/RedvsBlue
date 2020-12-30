@@ -1,0 +1,9 @@
+﻿  core.cpp
+C:\Users\11055\Desktop\big_program\RedvsBlue\RVB\RVB\core.cpp(29,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\11055\Desktop\big_program\RedvsBlue\RVB\RVB\core.cpp(130,7): warning C4101: “rect”: 未引用的局部变量
+C:\Users\11055\Desktop\big_program\RedvsBlue\RVB\RVB\core.cpp(239,7): warning C4101: “rect”: 未引用的局部变量
+C:\Users\11055\Desktop\big_program\RedvsBlue\RVB\RVB\core.cpp(456,7): warning C4101: “rect”: 未引用的局部变量
+C:\Users\11055\Desktop\big_program\RedvsBlue\RVB\RVB\core.cpp(539,7): warning C4101: “rect”: 未引用的局部变量
+C:\Users\11055\Desktop\big_program\RedvsBlue\RVB\RVB\core.cpp(655,7): warning C4101: “rect”: 未引用的局部变量
+C:\Users\11055\Desktop\big_program\RedvsBlue\RVB\RVB\core.cpp(116): warning C4715: “cal_X”: 不是所有的控件路径都返回值
+C:\Users\11055\Desktop\big_program\RedvsBlue\RVB\RVB\core.cpp(124): warning C4715: “cal_Y”: 不是所有的控件路径都返回值
